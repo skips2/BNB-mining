@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- This Site Scripted By me -->
+		
+		
+		
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Language" content="en">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta content="width=device-width, initial-scale=1, user-scalable=1" name="viewport">
+        <meta name="robots" content="index,follow">
+        <meta name="googlebot" content="index,follow">
+        <meta name="keywords" content="BNB, claim bnb, Bnb Mining">
+        <meta name="description" content="Claim unlimited BNB">
+        <!-- Title set -->
+        <title>Bnb Mining: Claim Unlimited BNB</title>
+        <!-- Favicon meta tag -->
+        <link rel="canonical" href="https://domain.com/">
+        <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
+        <link rel="mask-icon" href="/assets/img/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="theme-color" content="#ffffff">
+        <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
+        <!-- CSS -->
+        <link rel="preconnect" href="https://fonts.gstatic.com/">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&amp;display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="/assets/css/style.min.css">
+        <!-- Fancybox -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"/>
+        <!-- jQuery 3 -->
+        <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+        <!-- Bootstrap 3.3.7 -->
+        <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+        <!-- Main -->
+        <script src="/assets/js/main.js"></script>
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+	</head>
+    <body class="hold-transition login-page">
+        <div class="login-box">
+            <div class="header">
+                <div class="container">
+                    <div class="header__inner">
+                        <div class="header__logo">
+                            <a href="/">
+                                <img src="/assets/img/site-logo.png" alt="site logo">
+                            </a>
+                        </div>
+                        <div class="header__info">
+                            <div class="header__main">
+                                <div class="header__nav {{isActiveBurgerMenu ? 'active' : ''}}">
+                                    <ul>
+                                        <li>
+                                            <a href="/">Bnb Mining</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="header__social">
+                                    <a href="#" target="_blank">
+                                        <svg width="26" height="26" viewbox="0 0 26 26" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M13 0C5.8214 0 0 5.8214 0 13C0 20.1786 5.8214 26 13 26C20.1786 26 26 20.1786 26 13C26 5.8214 20.1786 0 13 0ZM18.9357 10.136C18.9414 10.264 18.9442 10.3925 18.9442 10.5216C18.9442 14.4645 15.9429 19.0112 10.4544 19.0114C8.76929 19.0114 7.20122 18.5175 5.88071 17.6711C6.11418 17.6987 6.35182 17.7123 6.59244 17.7123C7.99051 17.7123 9.2771 17.2355 10.2985 16.4351C8.99225 16.4109 7.89093 15.5482 7.51086 14.3626C7.69276 14.3975 7.87982 14.4165 8.07164 14.4165C8.34399 14.4165 8.60782 14.3798 8.85855 14.3114C7.49321 14.038 6.46469 12.8314 6.46469 11.3865C6.46469 11.373 6.46469 11.3609 6.46509 11.3484C6.86717 11.572 7.32698 11.7065 7.81654 11.7215C7.01535 11.187 6.48869 10.2731 6.48869 9.23782C6.48869 8.69113 6.63647 8.17896 6.89276 7.73799C8.36423 9.5435 10.5633 10.7309 13.0432 10.8557C12.9921 10.6371 12.9657 10.4094 12.9657 10.1753C12.9657 8.52808 14.3021 7.1917 15.9499 7.1917C16.8082 7.1917 17.5834 7.5545 18.1279 8.13452C18.8077 8.00043 19.446 7.75208 20.0227 7.41029C19.7995 8.10675 19.3266 8.69113 18.7105 9.06068C19.3141 8.98848 19.8894 8.8284 20.424 8.59076C20.0247 9.18922 19.5182 9.71489 18.9357 10.136Z"></path>
+                                        </svg>
+                                    </a>
+                                    <a href="#" target="_blank">
+                                        <svg width="26" height="26" viewbox="0 0 26 26" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M13 26C20.1814 26 26 20.1814 26 13C26 5.81858 20.1814 0 13 0C5.81858 0 0 5.81858 0 13C0 20.1814 5.81858 26 13 26ZM5.94858 12.7183L18.4828 7.88558C19.0645 7.67542 19.5726 8.0275 19.3841 8.90717L19.3852 8.90608L17.251 18.9605C17.0928 19.6733 16.6693 19.8467 16.0767 19.5108L12.8267 17.1156L11.2591 18.6258C11.0857 18.7991 10.9395 18.9453 10.6037 18.9453L10.8344 15.6379L16.8577 10.1963C17.1199 9.96558 16.7992 9.83558 16.4537 10.0653L9.01008 14.7517L5.80125 13.7508C5.10467 13.5297 5.0895 13.0542 5.94858 12.7183Z"></path>
+                                        </svg>
+                                    </a>
+                                </div>
+                            </div>
+                                                            <span class="header__btn btn btn-orange login-btn btn-primary morphing-btn" style="width: auto !important; padding: 0 1.5rem">Welcome User</span>
+                                                        <div class="burger">
+                                <a href="#">
+                                    <span></span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+<div class="showcase">
+    <div class="showcase__inner slick-initialized slick-slider">
+        <div class="slick-list draggable">
+            <div class="slick-track" style="opacity: 1; width: 9443px; transform: translate3d(-4047px, 0px, 0px);">
+                <div class="showcase__item slick-slide slick-cloned" data-slick-index="-1" style="width: 99%; background: slategrey url('/assets/img/tron-banner.jpg') 50% 50%;" aria-hidden="true" tabindex="-1">
+                    <div class="container">
+                        <div class="showcase__contant">
+                            <h1 class="showcase__title">
+                                Earn BNB Every 5 Seconds By clicking on Claim Option</h1>
+                            <div class="showcase__text" style="color: white">
+                                Login to your account by your BNB Address from Wallets like:Trust wallet,safepal,... and start claiming BNB For Free</div>
+                            <div class="-c-claim-box" style="display: block;">
+                                                                    <a class="showcase__btn btn btn-orange claim-btn" style="width: 200px; font-weight: bold; background: #ffd60c; height: 55px;" tabindex="-1">CLAIM NOW</a>
+                                    <div class="claim-time" style="display: none; margin-top: 5px; font-size: 0.8em; color: white">
+                                        <span>Next claim available in </span>
+                                        <strong>00:00</strong>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="showcase__footer">
+        <div class="showcase__info"><span>24690</span>
+            Players
+        </div>
+        <div class="showcase__info"><span>1391.404055 BNB</span>
+            Paid
+        </div>
+    </div>
+</div>
+<div class="ads-banner-container">
+    <a href="#modal-upgrade" data-fancybox="">
+        <img src="/assets/img/ads-banner1.png" alt="ads banner">
+    </a>
+    <a href="#modal-upgrade" data-fancybox="">
+        <img src="/assets/img/ads-banner2.png" alt="ads banner">
+    </a>
+    <a href="#modal-upgrade" data-fancybox="">
+        <img src="/assets/img/ads-banner3.png" alt="ads banner">
+    </a>
+    <a href="#modal-upgrade" data-fancybox="">
+        <img src="/assets/img/ads-banner4.png" alt="ads banner">
+    </a>
+</div>
+<div class="account">
+    <div class="container">
+        <div class="account__inner">
+            <div class="account__header">Claim BNB and withdraw For Free</div>
+            <div class="account__content">
+                <div class="account__item">
+                    <div class="account__image">
+                        <img src="/assets/img/user-account-logo.png" alt="user account">
+                    </div>
+                    <div class="account__info">
+                                                    <span>BNB wallet address : <strong>bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23</strong></span>
+                                            </div>
+                </div>
+                <div class="account__item account__item--small">
+                    <div class="account__image">
+                        <img src="/assets/img/user-wallet-logo.png" alt="wallet balance">
+                    </div>
+                    <div class="account__info account__info--margin">
+                        <span>Your wallet balance : </span>
+                                                    <strong class="account__sum">1.3661 BNB</strong>
+                            <a href="#modal-withdraw" class="btn btn btn-purple btn-primary" style="width: auto; text-decoration: none; color: white; margin-top: 0.5rem; font-weight: bold; font-size: 0.6em" data-fancybox="">Withdraw Now</a>
+                                            </div>
+                </div>
+            </div>
+            <div class="account__content">
+                <div class="account__item account__item--small" style="min-width:50%">
+                    <div class="account__image">
+                        <img src="/assets/img/customers.png" alt="wallet balance">
+                    </div>
+                    <div class="account__info account__info--margin">
+                        <span style="font-weight: bold; color:red">By Getting referrals you’ll receive 25% of each claim your referrals get , Get more referrals, earn more BNB</span>
+                                                                                <span>Your referral link : <strong>https://bnb-mining.cc?r=508</strong></span>
+                            <span>Your referrals count : <strong>64</strong></span>
+                            <span>Earned BNB by referrals : <strong>0.00186 BNB</strong></span>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+            <div class="footer">
+                <div class="container">
+                    <div class="footer__inner">
+                        <div class="footer__logo">
+                            <a href="/">
+                                <img src="/assets/img/site-logo.png" style="width: 50px; height: 50px" alt="site logo">
+                            </a>
+                            <a href="/" style="width: auto">
+                                <p style="font-size: 0.7em; opacity: 0.6; margin-top: 1rem;">
+                                  BNB MINING &copy; 2022                                </p>
+                            </a>
+                        </div>
+                        <div class="footer__navigation">
+                            <div class="footer__social">
+                                <a href="#" target="_blank">
+                                    <svg width="26" height="26" viewbox="0 0 26 26" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M13 0C5.8214 0 0 5.8214 0 13C0 20.1786 5.8214 26 13 26C20.1786 26 26 20.1786 26 13C26 5.8214 20.1786 0 13 0ZM18.9357 10.136C18.9414 10.264 18.9442 10.3925 18.9442 10.5216C18.9442 14.4645 15.9429 19.0112 10.4544 19.0114C8.76929 19.0114 7.20122 18.5175 5.88071 17.6711C6.11418 17.6987 6.35182 17.7123 6.59244 17.7123C7.99051 17.7123 9.2771 17.2355 10.2985 16.4351C8.99225 16.4109 7.89093 15.5482 7.51086 14.3626C7.69276 14.3975 7.87982 14.4165 8.07164 14.4165C8.34399 14.4165 8.60782 14.3798 8.85855 14.3114C7.49321 14.038 6.46469 12.8314 6.46469 11.3865C6.46469 11.373 6.46469 11.3609 6.46509 11.3484C6.86717 11.572 7.32698 11.7065 7.81654 11.7215C7.01535 11.187 6.48869 10.2731 6.48869 9.23782C6.48869 8.69113 6.63647 8.17896 6.89276 7.73799C8.36423 9.5435 10.5633 10.7309 13.0432 10.8557C12.9921 10.6371 12.9657 10.4094 12.9657 10.1753C12.9657 8.52808 14.3021 7.1917 15.9499 7.1917C16.8082 7.1917 17.5834 7.5545 18.1279 8.13452C18.8077 8.00043 19.446 7.75208 20.0227 7.41029C19.7995 8.10675 19.3266 8.69113 18.7105 9.06068C19.3141 8.98848 19.8894 8.8284 20.424 8.59076C20.0247 9.18922 19.5182 9.71489 18.9357 10.136Z"></path>
+                                    </svg>
+                                </a>
+                                <a href="#" target="_blank">
+                                    <svg width="26" height="26" viewbox="0 0 26 26" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M13 26C20.1814 26 26 20.1814 26 13C26 5.81858 20.1814 0 13 0C5.81858 0 0 5.81858 0 13C0 20.1814 5.81858 26 13 26ZM5.94858 12.7183L18.4828 7.88558C19.0645 7.67542 19.5726 8.0275 19.3841 8.90717L19.3852 8.90608L17.251 18.9605C17.0928 19.6733 16.6693 19.8467 16.0767 19.5108L12.8267 17.1156L11.2591 18.6258C11.0857 18.7991 10.9395 18.9453 10.6037 18.9453L10.8344 15.6379L16.8577 10.1963C17.1199 9.96558 16.7992 9.83558 16.4537 10.0653L9.01008 14.7517L5.80125 13.7508C5.10467 13.5297 5.0895 13.0542 5.94858 12.7183Z"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Modals -->
+            <div class="modal modal-login" id="modal-login" style="display: none;">
+                <div class="modal__header">
+                    <div class="modal__title">Register / Login</div>
+                </div>
+                <div class="modal__body">
+                    <div class="modal-login__cards form-style-6">
+                        <form name="form" id="form_login" method="post" novalidate>
+                            <div class="form-group has-feedback">
+                                <p>Your BNB wallet address: (You can use smart chain BNB and Normal BNB from trust wallet and safepal)</p>
+                                <input type="text" name="wallet_address" id="wallet_address_id" placeholder="Your BNB wallet address..." class="form-control center-no-placeholder" required="" minlength="5" maxlength="512" pattern="[a-z0-9A-Z]+">
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-12">
+                                    <button type="submit" class="form-button" style="margin-top: 1rem">REGISTER / LOGIN</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="modal modal-login" id="modal-withdraw" style="display: none;">
+                <div class="modal__header">
+                    <div class="modal__title">Withdraw</div>
+                </div>
+                <div class="modal__body">
+                    <div class="modal-login__cards form-style-6">
+                        <form name="withdrawForm" id="form_login" method="post" novalidate>
+                            <div class="form-group has-feedback">
+                                                                    <p style="font-weight: 400">Your wallet address: <strong>bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23</strong></p>
+                                    <p style="font-weight: 400">Amount: <strong class="account__sum">1.3661 BNB</strong></p>
+                                                            </div>
+                            <div class="row">
+                                <div class="col-xs-12">
+                                    <button type="submit" class="form-button" style="margin-top: 1rem">REQUEST WITHDRAW</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="modal modal-login" id="modal-upgrade" style="display: none;">
+                <div class="modal__header">
+                    <div class="modal__title">Upgrade Plan</div>
+                </div>
+                <div class="modal__body">
+                    <div class="modal-login__cards form-style-6">
+                        <form name="upgradeForm" id="form_upgrade" method="post" novalidate>
+                            <div class="form-group has-feedback">
+                                <p>For upgrade your account: You must pay BNB to these wallet's and send request to admin by form.</p>
+                                <p style="margin-top: 1rem; font-weight: 400">
+                                    Smart chain BNB (Bep20): <strong>0xb0a33295a40905feddfeb7aa24d17d9b17aabaf9</strong>
+                                </p>
+                                <p style="font-weight: 400">
+                                    BNB (Bep2): <strong>bnb136ns6lfw4zs5hg4n85vdthaad7hq5m4gtkgf23</strong>
+                                </p>
+                                <div class="form-group has-feedback" style="margin-top: 1rem">
+                                    <p>Your BNB wallet address that you paid with that :</p>
+                                    <input type="text" name="wallet_address" id="wallet_address_id" placeholder="Your BNB wallet address that you paid with that..." class="form-control center-no-placeholder" required="" minlength="5" maxlength="512" pattern="[a-z0-9A-Z]+">
+                                                                    </div>
+                                <div class="row">
+                                    <div class="col-xs-12">
+                                        <button type="submit" class="form-button" style="margin-top: 1rem">REQUEST UPGRADE</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+	</body>
+</html>
